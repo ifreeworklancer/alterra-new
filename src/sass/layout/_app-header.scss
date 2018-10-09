@@ -1,0 +1,17 @@
+#app-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 30px 0;
+    border-bottom: 1px solid rgba(#fff, .5);
+}
+
+.header-item {
+    position: relative;
+    padding: 15px 25px 15px 30px;
+
+    &--time {
+        padding-right: 0;
+    }
+}

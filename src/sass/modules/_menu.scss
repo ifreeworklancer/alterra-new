@@ -1,0 +1,6 @@
+.burger-menu {
+    @extend %pos;
+    right: auto;
+    width: 100px;
+    background: $primary;
+}
